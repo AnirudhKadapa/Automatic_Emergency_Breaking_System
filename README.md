@@ -15,3 +15,6 @@ Then you can run:
 ```
 python track.py --yolo-weights yolov8n.pt --save-txt --classes 0 --source 0
 ```
+
+https://github.com/AnirudhKadapa/Automatic_Emergency_Breaking_System/assets/109196307/bdf6cc74-92ac-4781-84fb-7c15cfdaf6f8
+
